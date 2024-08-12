@@ -10,6 +10,8 @@ list_of_students = {
  "stu5" :   {'name':'Jerry','age':24,'address':'Arizona'}
 }
 
+feri_data_chahiyo = True
+aba_chahiyena = False
 
 
 def show_data():
