@@ -4,3 +4,4 @@ dict = {
 }
 
 print(dict["age"])
+print(dict.get("age"))
