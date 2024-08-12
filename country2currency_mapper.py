@@ -9,3 +9,9 @@ for i in range(10):
 country_name = input("Enter the country name to get the currency: ")
 print(country2currency[country_name])
 print(country2currency)
+
+#DICT zip is used to zip two lists into a dictionary
+# country = ['Nepal','India','China']
+# currency = ['NPR','INR','CNY']
+# country2currency = dict(zip(country,currency))
+# print(country2currency)
